@@ -1,0 +1,6 @@
+@software{nbml,
+author = {Bakas, Nikolaos and Markou, George and Langousis, Andreas and Lavdas, Spyros and Chatzichristofis, Savvas},
+title = {nbml: Computer Software for Data Analysis and Predictive Modelling with Artificial Intelligence Algorithms},
+year = {2023},
+url = {https://github.com/nbakas/nbml/blob/main/docs/__nbml__.pdf}
+}

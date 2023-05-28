@@ -1,0 +1,9 @@
+adjustText
+nbconvert
+pandas
+seaborn
+scipy
+scikit-learn
+statsmodels 
+xgboost
+openpyxl
